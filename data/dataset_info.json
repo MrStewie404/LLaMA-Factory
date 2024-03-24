@@ -1,6 +1,6 @@
 {
   "docker_NL": {
-    "hf_hub_url": "MattCoddity/dockerNLcommands",
+    "hf_hub_url": "SAi404/dataset",
     "columns": {
       "prompt": "instruction",
       "query": "input",
